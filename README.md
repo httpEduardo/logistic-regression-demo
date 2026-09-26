@@ -1,11 +1,13 @@
-# LogisticDock
+# Logistic Regression Demo
 
-LogisticDock trains a logistic regression classifier with gradient descent.
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+
+Logistic Regression Demo trains a logistic regression classifier with gradient descent.
 
 ## Quick start
 
 ```bash
-python -m app.server --port 5173
+python -m logistic_regression_demo.server --port 5173
 ```
 
 Open http://localhost:5173
